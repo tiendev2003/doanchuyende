@@ -5,7 +5,7 @@ import com.example.statement.ReturnStatement;
 import com.example.statement.loop.AbstractLoopStatement;
 
 /**
- * Associates a given {@link ReturnScope} with {@link org.example.toylanguage.statement.CompositeStatement}
+ * Associates a given {@link ReturnScope} with {@link com.example.statement.CompositeStatement}
  * <p>
  *
  * @see AbstractLoopStatement
