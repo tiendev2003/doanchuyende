@@ -18,6 +18,7 @@ import com.example.expression.ExpressionReader;
 import com.example.expression.VariableExpression;
 import com.example.expression.operator.OperatorExpression;
 import com.example.expression.value.LogicalValue;
+import com.example.statement.AssertStatement;
 import com.example.statement.ClassStatement;
 import com.example.statement.CompositeStatement;
 import com.example.statement.ConditionStatement;
